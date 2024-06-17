@@ -27,7 +27,7 @@ After signing in to the AWS Management Console, choose the IAM service, through 
 
 ![img](labvalid-img3.png)
 
-<question source="https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-quest1.md" />
+<question source="https://raw.githubusercontent.com/Sahil-8577/role_lab_guide_ques/main/lab_guide/valid-quest1.md" />
 
  
 
